@@ -1,0 +1,11 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  margin: auto;
+}
+
+#container {
+  height: 800px;
+  width: 800px;
+  padding: 10px;
+}
